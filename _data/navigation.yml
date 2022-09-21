@@ -1,0 +1,9 @@
+main:
+  - title: "Seminare"
+    url: /seminare/
+  - title: "Consulting"
+    url: /consulting/
+  - title: "Bücher"
+    url: /buecher/
+  - title: "Resources"
+    url: /resources/

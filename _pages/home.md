@@ -47,7 +47,7 @@ news_books_resources:
 
   - title: "Bücher"
     excerpt: "![](/images/home/books.png)<br>
-    Gerne geben wir unser Wissen nicht nur in Seminaren und beim Coaching weiter, sondern auch in Buchform. Schmökern Sie hier."
+    Gerne geben wir unser Wissen nicht nur in Seminaren und beim Coaching weiter, sondern auch in Buchform. Schmökern Sie [hier](/books)."
    
   
   - title: "Resources"

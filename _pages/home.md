@@ -32,7 +32,7 @@ training_coaching_me:
   - title: " "
     excerpt: "![](/images/home/ph.jpg)<br>
     Peter Hruschka ist Partner der Altantic Systems Guild. Zusammen mit Tom DeMarco, Tim Lister, Steve McMenamin, Suzanne und James Robertson arbeitet er seit vielen Jahren daran, System- und Software-Entwicklung transparenter, effektiver, pragmatischer und dadurch erfolgreicher zu gestalten."
-   
+
 
 
 
@@ -48,7 +48,7 @@ news_books_resources:
   - title: "Bücher"
     excerpt: "![](/images/home/books.png)<br>
     Gerne geben wir unser Wissen nicht nur in Seminaren und beim Coaching weiter, sondern auch in Buchform."
-    url: "/books"
+    url: "https://systemsguild.eu/guild-books"
     btn_label: "Schmökern Sie hier"
     btn_class: "btn--primary"
 
@@ -73,6 +73,6 @@ news_books_resources:
 ![](/images/home/guildbooks.jpeg)
 <br>
 
-Alleine, zu zweit, zu dritt oder mit allen meinen Partnern von der Atlantic Systems Guild sind wir ständig daran, neue Bücher zu schreiben oder unsere Bücher auf den neuesten Stand zu bringen. Dies sind nur einige unserer Veröffentlichungen. Mehr dazu finden Sie [hier](/books)
+Alleine, zu zweit, zu dritt oder mit allen meinen Partnern von der Atlantic Systems Guild sind wir ständig daran, neue Bücher zu schreiben oder unsere Bücher auf den neuesten Stand zu bringen. Dies sind nur einige unserer Veröffentlichungen. Mehr dazu finden Sie [hier](https://systemsguild.eu/guild-books)
 
 

@@ -1,9 +1,9 @@
 main:
   - title: "Training"
-    url: /seminars/
+    url: /seminars
   - title: "Coaching"
-    url: /coaching/
+    url: /coaching
   - title: "Bücher"
     url: "https://systemsguild.eu/guild-books"
   - title: "Ressourcen"
-    url: /resources/
+    url: /resources

@@ -4,6 +4,6 @@ main:
   - title: "Consulting"
     url: /consulting/
   - title: "Bücher"
-    url: /buecher/
+    url: "https://systemsguild.eu/guild-books"
   - title: "Resources"
     url: /resources/

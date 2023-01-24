@@ -32,9 +32,6 @@ remote_theme: mmistakes/minimal-mistakes
 github: metadata
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 0 # amount of posts to show
-paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -54,7 +51,6 @@ exclude:
   
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed

@@ -34,7 +34,7 @@ seminars_arc:
 
 ---
 
-Lernen Sie in unseren erprobten und praxisnahen Seminaren über  Business-Analyse & Requirements Engineering und System-/Software-Architekturen das, was Sie brauchen, um erfolgreich Systeme und Produkte zu entwickeln. Mit oder ohne Zertifizierung durch IREB und ISAQB.
+Lernen Sie in unseren erprobten und praxisnahen Seminaren über Business-Analyse & Requirements Engineering und System-/Software-Architekturen das, was Sie brauchen, um erfolgreich Systeme und Produkte zu entwickeln. Mit oder ohne Zertifizierung durch IREB und ISAQB.
 
 
 <div class="seminar-req">

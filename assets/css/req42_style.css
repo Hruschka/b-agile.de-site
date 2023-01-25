@@ -11,11 +11,15 @@
 div.seminar-req {
     color: var(--dark-blue-text-color);
     background-color: var(--seminar-req);
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 div.seminar-arc {
     color: var(--dark-blue-text-color);
     background-color: var(--seminar-arc);
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 div.coachingsteps{

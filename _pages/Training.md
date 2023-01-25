@@ -12,6 +12,7 @@ excerpt: "Praxisorientiert, effektiv und pragmatisch"
 
 seminars_req:
 - title: "Business Analysis & Requirements Engineering"
+  image_path: "images/training/req42_logo.png"
   excerpt: "Seit 2007 haben sich schon mehr als 80000 Personen nach dem IERB-Programm weltweit zertifizieren lassen. Dieses Programm beinhaltet unsere erfolgreichen und pragmatischen Foundation Level und Advanced Level-Seminare, die wir gerne Deutsch oder Englisch anbieten."
   url: "https://req42.de/kurse"
   btn_label: "Mehr zu den Trainings"
@@ -20,8 +21,9 @@ seminars_req:
 
 seminars_arc:
 - title: "System- und Software-Architekturen"
+  image_path: "images/training/arc42_logo.webp"
   excerpt: "arc42 ist inzwischen zu einem DeFacto-Standard in großen Teilen der Industrie geworden.
-  Lernen Sie in unseren Foundation Level und Advanced-Seminaren, wie Sie Ihre Architekturen in den Griff bekommen. Mehr zu den Trainings finden sie hier"
+  Lernen Sie in unseren Foundation Level und Advanced-Seminaren, wie Sie Ihre Architekturen in den Griff bekommen."
   url: "https://www.arc42.de/schulungen"
   btn_label: "Mehr zu den Trainings"
   btn_class: "btn--primary"

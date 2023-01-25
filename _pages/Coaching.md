@@ -6,6 +6,7 @@ header:
     overlay_image: /images/splash/learn-header-helloquence.jpg
     overlay_color: "#d7ecf8"
     overlay_filter: rgba(15, 80, 180, 0.6)
+    caption: "[**Unsplash**](https://unsplash.com/)"
 
 excerpt: "Von der Vision einer besseren Welt..."
 

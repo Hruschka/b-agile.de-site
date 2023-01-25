@@ -6,6 +6,8 @@ header:
   overlay_color: "#d7ecf8"
   overlay_filter: rgba(15, 80, 180, 0.6)
   overlay_image: /images/splash/consulting-unsplash.jpg
+  caption: "[**Unsplash**](https://unsplash.com/)"
+
 excerpt: "Praxisorientiert, effektiv und pragmatisch"
 
 

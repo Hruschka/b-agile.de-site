@@ -5,7 +5,7 @@ permalink: /
 header: 
   #overlay_color: "#d7ecf8"
   #overlay_filter: rgba(15, 80, 180, 0.6)
-  overlay_image: /images/b-agile-splash-landingpage.jpg
+  overlay_image: /images/splash/b-agile-splash-landingpage.jpg
   actions:  
     - label: "&#8594; English site..."
       url: "/"

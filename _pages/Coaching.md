@@ -3,9 +3,10 @@ title: "Software- und System Engineering:"
 layout: splash
 permalink: /coaching
 header:
-    #overlay_color: "#d7ecf8"
-    #overlay_filter: rgba(15, 80, 180, 0.6)
-    overlay_image: /images/b-agile-splash-landingpage.jpg
+    overlay_image: /images/splash/learn-header-helloquence.jpg
+    overlay_color: "#d7ecf8"
+    overlay_filter: rgba(15, 80, 180, 0.6)
+
 excerpt: "Von der Vision einer besseren Welt..."
 
 

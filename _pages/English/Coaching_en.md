@@ -15,7 +15,7 @@ excerpt: "From the vision of a better world..."
 industrielle-praxis:
 - title: "... to industrial praxis"
   image_path: "/images/coaching/coaching_graphic_english.png"
-  excerpt: "The offer includes everything around the topics „Better software and system engineering“: from taking stock of your „State of the Nation“, strategic target planning (with regard to software technology), seminars and workshops to acquire basic knowledge, to project support in the form of coaching and consulting, and reviews and audits of acquired results.
+  excerpt: "The offer includes everything around the topics „Better software and system engineering“: from taking stock of your „State of the Nation“, strategic goal planning (with regard to software technology), seminars and workshops to acquire basic knowledge, to project support in the form of coaching and consulting, and reviews and audits of acquired results.
   <br><br>
   The cycle can last 6 - 12 months for a single project team, and 1 - 5 years for entire departments with multiple projects. The end result is a motivated, well-trained and successful team."
 

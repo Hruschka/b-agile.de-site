@@ -39,9 +39,9 @@ training_coaching_me:
 
 news_books_resources: 
   - title: "News"
-    excerpt: "![](/images/home/htwhdeutschtitel.png)<br>
+    excerpt: "![](/images/home/en/news.jpg) <small><small><small> Image from [Unsplash](https://unsplash.com) </small></small></small> <br>
     We've spent a long time looking at what makes for a good and bad working atmosphere and how corporate culture leads to certain patterns of behavior. Read more in the two new books from Carl-Hanser."
-    url: "/en/news"
+    url: "/en/news"	 
     btn_label: "learn more..."
     btn_class: "btn--primary" 
 
@@ -65,6 +65,7 @@ news_books_resources:
 
 
 ---
+
 
 {% include feature_row id="training_coaching_me" %}
 

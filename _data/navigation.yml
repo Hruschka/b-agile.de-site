@@ -7,3 +7,12 @@ main:
     url: "https://systemsguild.eu/guild-books"
  # - title: "Ressourcen"
  #   url: /resources
+
+main_en:
+  - title: "Training"
+    url: /en/seminars
+  - title: "Coaching"
+    url: /en/coaching
+  - title: "Books"
+    url: "https://systemsguild.eu/guild-books"
+

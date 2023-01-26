@@ -1,5 +1,5 @@
 ---
-title: "Software- und System Engineering:"
+title: "Software- and system engineering:"
 layout: splash_en
 permalink: /en/coaching
 header:
@@ -8,69 +8,67 @@ header:
   overlay_filter: rgba(15, 80, 180, 0.6)
   caption: "[**Unsplash**](https://unsplash.com/)"
 
-excerpt: "Von der Vision einer besseren Welt..."
+excerpt: "From the vision of a better world..."
 
 
 
 industrielle-praxis:
-- title: "... zur industriellen Praxis"
-  image_path: "/images/coaching/coaching_graphic_german.png" 
-  excerpt: "Das Angebot umfasst alles rund um die Themen „Besseres Software- und System-Engineering“: von der Bestandsaufnahme Ihrer „Lage der Nation“ über strategische Zielplanung (in Bezug auf Software-Technologie), Seminare und Workshops zur Erlangung des Basiswissens, bis zur Projektbegleitung in Form von Coaching und Consulting und Reviews und Audits erarbeiteter Ergebnisse.
+- title: "... to industrial praxis"
+  image_path: "/images/coaching/coaching_graphic_german.png"
+  excerpt: "The offer includes everything around the topics „Better software and system engineering“: from taking stock of your „state of the nation“, strategic target planning (with regard to software technology), seminars and workshops to acquire basic knowledge, to project support in the form of coaching and consulting, and reviews and audits of acquired results.
   <br><br>
-  Der Zyklus kann für ein einzelnes Projektteam 6 – 12 Monate dauern, für ganze Abteilungen mit mehreren Projekten 1 – 5 Jahre. Am Ende steht ein motiviertes, gut ausgebildetes und erfolgreiches Team."
-
-
+  The cycle can last 6 - 12 months for a single project team, and 1 - 5 years for entire departments with multiple projects. The end result is a motivated, well-trained and successful team."
 
 one:
-- title: 'Untersuchung der "Lage der Nation" (2-3 Tage)'
+- title: 'Study of the "state of the nation" (2-3 days)'
   image_path: "/images/coaching/one.png"
-  image_caption: "Der Anfang..."
-  excerpt: "Im Gespräch mit Geschäftsführung, Abteilungsleitern, Projektleitern und Mitarbeitern wird die Ausgangssituation Ihrer Software- und Systementwicklung durchleuchtet. Auf Wunsch auch in Zusammenarbeit mit Partnern der Atlantic System Guild oder anderen deutschen Partnern.
+  image_caption: "The beginning..."
+  excerpt: "In a discussion with management, department heads, project managers and employees, the initial situation of your software and system development is examined. If desired, also in cooperation with partners of the Atlantic System Guild or other German partners.
   <br><br>
-  Ergebnis: konkrete Aktionshinweise und Schwerpunktsetzung."
+  Result: concrete action notes and setting of priorities."
 
 two:
-- title: 'Zielplanung (1-3 Tage)'
+- title: 'Target planning (1-3 days)'
   image_path: "/images/coaching/two.png"
-  image_caption: "Wo wollen Sie in 1-5 Jahren sein?"
-  excerpt: "Im gemeinsamen Gespräch mit Gruppen bzw. Abteilungsleitern wird ein realistisches Ziel für 12 Monate, 3 Jahre oder 5 Jahre (je nach Gruppengröße und Ausgangssituation) skizziert. Notwendige Ausbildungsmaßnahmen, Werkzeugbeschaffungen, flankierende Maßnahmen, organisatorische Einbettung, etc. werden geplant.
+  image_caption: "Where do you want to be in 1-5 years?"
+  excerpt: "In a joint discussion with groups or department heads, a realistic target is outlined for 12 months, 3 years or 5 years (depending on group size and initial situation). Necessary training measures, tool procurement, accompanying measures, organizational embedding, etc. are planned.
   <br><br>
-  Ergebnis: Ein „Rahmenfahrplan“ für den festgelegten Zeitraum mit grobem Überblick über Aufwände und Kosten."
+  Result: An „outline roadmap“ for the defined period with a rough overview of efforts and costs."
 
 three:
-- title: 'Kurse & Workshops'
+- title: 'Seminars & Workshops'
   image_path: "/images/coaching/three.png"
-  image_caption: "Die Ausbildung..."
-  excerpt: "Alle Kurse und Workshops werden dem Ausbildungstand des Kunden individuell angepasst. Deshalb kann die Dauer variieren."
-  url: "/seminars"
-  btn_label: "Die Themen finden Sie hier"
+  image_caption: "The training..."
+  excerpt: "All courses and workshops are individually adapted to the level of training of the customer. Therefore the duration may vary."
+  url: "/en/seminars"
+  btn_label: "You'll find the topics here"
   btn_class: "btn--primary"
 
 four:
 - title: 'Consulting & Coaching'
   image_path: "/images/coaching/four.png"
-  image_caption: "Die Nachsorge..."
-  excerpt: "Nach Absolvierung der oben genannten Basisseminare oder bei geeigneter Vorbildung betreue ich Teams bei der Umsetzung von Software-Engineering-Methoden und Verfahren in die Praxis durch Beratung oder Mitarbeit in laufenden Projekten.
-  Dies geht von „Umsetzung des Erlernten“ bis hin zu Training-on-the-Job bei besonders zeitkritischen Projekten. Das Team erhält einen Ansprechpartner, damit Fragen schnellstens beantwortet werden und Irrwege vermieden werden.
+  image_caption: "The aftercare..."
+  excerpt: "After completion of the basic seminars mentioned above or with suitable previous training, I supervise teams in the implementation of software engineering methods and procedures in practice through consulting or collaboration in ongoing projects.
+  This ranges from „implementation of what has been learned“ to on-the-job training for particularly time-critical projects. The team is given a contact person so that questions are answered as quickly as possible and erroneous paths are avoided.
   <br><br>
-  Normalerweise ist der Beratungsrhythmus zu Projektbeginn etwas intensiver, z.B. 2 – 3 Tage pro Woche, kann nach 1 – 2 Monaten auf 2 x 2 Tage pro Monat reduziert werden und nach einem halben Jahr auf wenige Tage pro Monat oder Quartal. Die Betreuung wird je nach Lernfortschritt des Projektteams schrittweise zurückgestuft. Oft endet die Betreuung dann in quartalsmäßigen oder halbjährlichen Reviews (siehe nächster Punkt).
+  Normally, the consulting rhythm is somewhat more intensive at the beginning of the project, e.g. 2 - 3 days per week, can be reduced to 2 x 2 days per month after 1 - 2 months and to a few days per month or quarter after half a year. The supervision is gradually scaled down depending on the learning progress of the project team. Often the supervision then ends in quarterly or semi-annual reviews (see next point).
   "
 
 five:
 - title: 'Review & Audits'
   image_path: "/images/coaching/five.png"
-  image_caption: "Der Abschluss... oder der Beginn?"
-  excerpt: "Teams, die seit einiger Zeit Methoden und Verfahren einsetzen und eine externe Qualitätssicherung wünschen bzw. Verbesserungspotential suchen, stelle ich Reviews der Ergebnisse bzw. Prozess-Audits zur Verfügung. Für meine Vorbereitung von Reviews gilt die Faustformel: ca. 1 Tag pro Zentimeter Papier. Aus den Ergebnissen von Reviews und Audits ergeben sich vielleicht Vorschläge für gezielte Ausbildung in dem einen oder anderen Bereich, bzw. für die Notwendigkeit der Projektbegleitung.
+  image_caption: "The end... or the beginning?"
+  excerpt: "I provide reviews of the results or process audits to teams that have been using methods and processes for some time and want external quality assurance or are looking for potential for improvement. For my preparation of reviews the rule of thumb is: approx. 1 day per centimeter of paper. The results of reviews and audits may lead to suggestions for targeted training in one area or another, or for the need for project support.
   <br><br>
-  Die Themen umfassen der ganzen Bereich der Software-Technologie, insbesondere z.B.
+  The topics cover the whole area of software technology, in particular e.g.
   <br>
-  - Reviews von Geschäftsprozessanalysemodellen
+  - Reviews of business process analysis models
   <br>
-  - Reviews von Pflichten-/Lastenheften
+  - Reviews of requirement specifications
   <br>
-  - Reviews von Architekturen/Designs
+  - Reviews of architectures/designs
   <br>
-  - Audits von Entwicklungsprozessen, Methodeneinsatz, Vorgehensmodellen, ..."
+  - Audits of development processes, use of methods, procedure models, ..."
 
 
 ---

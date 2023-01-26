@@ -12,6 +12,7 @@ excerpt: "From the vision of a better world..."
 
 
 
+
 industrielle-praxis:
 - title: "... to industrial praxis"
   image_path: "/images/coaching/coaching_graphic_german.png"

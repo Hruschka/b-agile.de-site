@@ -82,7 +82,7 @@ five:
 </div>
 
 <div class="coachingsteps">
-{% include feature_row id="two" type="left" %}
+{% include feature_row id="two" type="right" %}
 </div>
 
 <div class="coachingsteps">
@@ -90,7 +90,7 @@ five:
 </div>
 
 <div class="coachingsteps">
-{% include feature_row id="four" type="left" %}
+{% include feature_row id="four" type="right" %}
 </div>
 
 <div class="coachingsteps">

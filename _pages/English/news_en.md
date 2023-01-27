@@ -56,4 +56,4 @@ We have distilled our observations and experiences from hundreds of organization
 
 
 
-Browse these two books – and [feel free to send me](mailto:hruschka@b-agile.de) your own war-stories.
+Browse these two books – and <a href="ymyayiylytyoy:yhyryuysycyhykya@yb-agile.de" onmouseover="this.href=this.href.replace(/y/g,'');">feel free to send me <small><small>(spam-protected)</small></small></a> your own war-stories.

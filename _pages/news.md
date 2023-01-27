@@ -45,4 +45,5 @@ Wir haben unsere Beobachtungen und Erfahrungen aus Hunderten von Organisationen 
 
 
 
-Schmökern Sie in diesen beiden Büchern – und [schicken Sie mir gerne](mailto:hruschka@b-agile.de) Ihre eigenen War-Stories. 
+Schmökern Sie in diesen beiden Büchern – und <a href="ymyayiylytyoy:yhyryuysycyhykya@yb-agile.de" onmouseover="this.href=this.href.replace(/y/g,'');">schicken Sie mir gerne <small><small>(spam-geschützt)</small></small></a> Ihre eigenen War-Stories.
+

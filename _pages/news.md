@@ -26,7 +26,7 @@ Die Muster zeigen, wie man mit _„Schönreden“_, _„Management nach Gemütsl
 > <cite> Joel Spolsky · Autor von „Joel on Software“ </cite>
 
 
-==============================================================
+<hr class="big-sep">
 
 Wie kommt es zu solchem positiven und negativen Verhalten? Die Antwort finden Sie in Ihrem Betriebsklima bzw. der Firmenkultur.
 

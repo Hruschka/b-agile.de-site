@@ -3,6 +3,8 @@ main:
     url: /seminars
   - title: "Coaching"
     url: /coaching
+  - title: "News"
+    url: /news
   - title: "Bücher"
     url: "https://systemsguild.eu/guild-books"
  # - title: "Ressourcen"
@@ -13,6 +15,8 @@ main_en:
     url: /en/seminars
   - title: "Coaching"
     url: /en/coaching
+  - title: "News"
+    url: /en/news
   - title: "Books"
     url: "https://systemsguild.eu/guild-books"
 

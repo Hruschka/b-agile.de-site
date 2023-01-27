@@ -31,7 +31,7 @@ training_coaching_me:
 
 
   - title: " "
-    excerpt: "![](/images/home/ph.jpg)<br>
+    excerpt: "<img src='/images/home/ph.jpg' width='300'/> <br>
     Peter Hruschka is a partner in the Atlantic Systems Guild. Together with Tom DeMarco, Tim Lister, Steve McMenamin, Suzanne and James Robertson, he has been working for many years to make systems and software development more transparent, effective, pragmatic and thus more successful."
 
 
@@ -39,7 +39,7 @@ training_coaching_me:
 
 news_books_resources: 
   - title: "News"
-    excerpt: "![](/images/home/htw_english.png)
+    excerpt: "<img src='/images/home/htw_english.png' width='300' height='300' /> <br>
     We've spent a long time looking at what makes for a good and bad working atmosphere and how corporate culture leads to certain patterns of behavior. Read more in the two new books from Carl-Hanser."
     url: "/en/news"	 
     btn_label: "learn more..."

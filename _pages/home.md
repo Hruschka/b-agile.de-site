@@ -31,7 +31,7 @@ training_coaching_me:
 
 
   - title: " "
-    excerpt: "![](/images/home/ph.jpg)<br>
+    excerpt: "<img src='/images/home/ph.jpg' width='300'/> <br>
     Peter Hruschka ist Partner der Atlantic Systems Guild. Zusammen mit Tom DeMarco, Tim Lister, Steve McMenamin, Suzanne und James Robertson arbeitet er seit vielen Jahren daran, System- und Software-Entwicklung transparenter, effektiver, pragmatischer und dadurch erfolgreicher zu gestalten."
 
 

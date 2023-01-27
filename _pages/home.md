@@ -58,7 +58,7 @@ news_books_resources:
     excerpt: "![](/images/home/ressourcen.jpg)<br>
     Laden Sie sich hier Vorträge, Artikel, Bücher, etc. herunter."
     url: "resources"
-    btn_label: "mehr dazu..."
+    btn_label: "zu den Ressourcen"
     btn_class: "btn--primary"
    
 

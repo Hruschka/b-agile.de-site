@@ -58,7 +58,7 @@ news_books_resources:
     excerpt: "![](/images/home/ressourcen.jpg)<br>
     Download talks, articles, books, etc. here."
     url: "/en/resources"
-    btn_label: "learn more..."
+    btn_label: "to the resources"
     btn_class: "btn--primary"
    
 

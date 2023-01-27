@@ -39,9 +39,12 @@ and 77 more
 <hr class="big-sep">
 
 ![](/images/news/book_two_en.png){: .align-right}
+
+How does such positive and negative behavior occur? The answer can be found in your company culture.
+
 We drilled deeper: What actually determines a positive or negative corporate culture?
 
-Corporate culture is probably the least scrutinized aspect of your work environment, but it is by no means inscrutable. In our book "Happy to work here - understanding and improving the Culture at Work", we show you how improving your culture can lead to a happier working environment.
+Corporate culture is probably the least scrutinized aspect of your work environment, but it is by no means inscrutable. In our book ["Happy to work here - understanding and improving the Culture at Work"](https://www.amazon.com/Happy-Work-Here-Understanding-Improving-ebook/dp/B08VHP27WP), we show you how improving your culture can lead to a happier working environment.
 
 The book enables you
 - to understand the existing corporate culture,

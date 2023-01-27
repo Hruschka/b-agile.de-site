@@ -28,20 +28,21 @@ Die Muster zeigen, wie man mit _„Schönreden“_, _„Management nach Gemütsl
 
 <hr class="big-sep">
 
+![](/images/news/book_two_german.png){: .align-right}
 Wie kommt es zu solchem positiven und negativen Verhalten? Die Antwort finden Sie in Ihrem Betriebsklima bzw. der Firmenkultur.
 
 Wir haben tiefer gebohrt: Was macht eigentlich ein positives oder negatives Betriebsklima aus?
 
-Das Betriebsklima ist wahrscheinlich der am wenigsten durchleuchtete Aspekt in Ihrem Arbeitsumfeld, aber er ist keineswegs undurchschaubar. In unserem Buch „Happy to work here – Betriebsklima verstehen und verbessern“ zeigen wir Ihnen, wie die Verbesserung des Betriebsklimas zu einem glücklicheren Arbeitsumfeld führt.
+Das Betriebsklima ist wahrscheinlich der am wenigsten durchleuchtete Aspekt in Ihrem Arbeitsumfeld, aber er ist keineswegs undurchschaubar. In unserem Buch [„Happy to work here – Betriebsklima verstehen und verbessern“](https://www.amazon.de/Happy-work-here-Betriebsklima-verbessern-ebook/dp/B0948MHZWJ/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3JXE40A4I3U2M&keywords=happy+to+work+here&qid=1674748482&sprefix=happy+to+work+here%2Caps%2C168&sr=8-2) zeigen wir Ihnen, wie die Verbesserung des Betriebsklimas zu einem glücklicheren Arbeitsumfeld führt.
 
 Es ermöglicht Ihnen,
-•	das existierende Betriebsklima zu verstehen,
-•	Strukturen aufzudecken und die daraus resultierenden Verhaltensweisen zu begreifen,
-•	unausgesprochene Regeln, die sich vergiftend auf das Betriebsklima auswirken, zu entschlüsseln,
-•	ein ungesundes Betriebsklima so zu verändern, dass Sie und Ihr Umfeld sich wohlfühlen.
+- das existierende Betriebsklima zu verstehen,
+- Strukturen aufzudecken und die daraus resultierenden Verhaltensweisen zu begreifen,
+- unausgesprochene Regeln, die sich vergiftend auf das Betriebsklima auswirken, zu entschlüsseln,
+- ein ungesundes Betriebsklima so zu verändern, dass Sie und Ihr Umfeld sich wohlfühlen.
 
-Wir haben unsere Beobachtungen und Erfahrungen aus Hunderten von Organisationen destilliert und dabei die Einflussfaktoren identifiziert, die ein gutes oder schlechtes Betriebsklima ausmachen. Sie zeigen Ihnen, wie man diese Faktoren wirksam beeinflussen kann, damit Sie und Ihre Kollegen sagen können: »Es macht Spaß, hier zu arbeiten.«
+Wir haben unsere Beobachtungen und Erfahrungen aus Hunderten von Organisationen destilliert und dabei die Einflussfaktoren identifiziert, die ein gutes oder schlechtes Betriebsklima ausmachen. Sie zeigen Ihnen, wie man diese Faktoren wirksam beeinflussen kann, damit Sie und Ihre Kollegen sagen können: **»Es macht Spaß, hier zu arbeiten.«**
 
 
 
-Schmökern Sie in diesen beiden Büchern – und schicken Sie mir gerne Ihre eigenen War-Stories. 
+Schmökern Sie in diesen beiden Büchern – und [schicken Sie mir gerne](mailto:hruschka@b-agile.de) Ihre eigenen War-Stories. 

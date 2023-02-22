@@ -7,8 +7,8 @@ main:
     url: /news
   - title: "Bücher"
     url: "https://systemsguild.eu/guild-books"
- # - title: "Ressourcen"
- #   url: /resources
+  - title: "Ressourcen"
+    url: /resources
 
 main_en:
   - title: "Training"

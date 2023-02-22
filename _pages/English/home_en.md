@@ -56,7 +56,7 @@ news_books_resources:
     
   - title: "Resources"
     excerpt: "![](/images/home/ressourcen.jpg)<br>
-    Download talks, articles, books, etc. here."
+    Download talks, articles and books here."
     url: "/en/resources"
     btn_label: "to the resources"
     btn_class: "btn--primary"

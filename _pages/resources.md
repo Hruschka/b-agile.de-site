@@ -20,15 +20,17 @@ vorträge:
 
 artikel:
 - title: "Artikel"
-  image_path: "/images/resources/42.png"
+  image_path: "/images/resources/articles.jpg"
+  image_caption: "Image from [Unsplash](https://unsplash.com)"
   url: "/resources/articles"
-  btn_label: "Artikel herunterladen"
+  btn_label: "Zu den Artikeln"
   btn_class: btn--primary
-  excerpt: "Laden Sie sich hier Artikel herunter."
+  excerpt: "Hier stehen für Sie verschiedene Artikel zum Download zur Verfügung."
 
 bücher:
 - title: "Bücher"
   image_path: "/images/resources/book.jpg"
+  image_caption: "Image from [Unsplash](https://unsplash.com)"
   url: "_pages/downloads/books/HruschkaRupp.pdf"
   btn_label: "Zum Download"
   btn_class: btn--primary

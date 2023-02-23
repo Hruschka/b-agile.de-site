@@ -31,7 +31,7 @@ bücher:
 - title: "Bücher"
   image_path: "/images/resources/book.jpg"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
-  url: "_pages/downloads/books/HruschkaRupp.pdf"
+  url: "downloads/books/agile_softwareentwicklung_embedded_real_time_systems_uml.pdf"
   btn_label: "Zum Download"
   btn_class: btn--primary
   excerpt: "Das Buch „Agile Softwareentwicklung für Embedded Real-Time Systems mit der UML“ ist leider nicht mehr im Handel erhältlich. Deshalb hier als Gratis-Download"

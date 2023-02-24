@@ -14,7 +14,7 @@ vorträge:
 - title: "Vorträge"
   image_path: "/images/resources/lectures.jpg"
   url: "/resources/lectures"
-  btn_label: "Vorträge herunterladen"
+  btn_label: "Zu den Vorträgen"
   btn_class: btn--primary
   excerpt: "Hier stehen für Sie verschiedene Vorträge zum Download zur Verfügung."
 

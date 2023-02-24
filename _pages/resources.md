@@ -12,11 +12,11 @@ excerpt: "Laden Sie sich hier Vorträge, Artikel und Bücher herunter"
 
 vorträge:
 - title: "Vorträge"
-  image_path: "/images/resources/42.png"
+  image_path: "/images/resources/lectures.jpg"
   url: "/resources/lectures"
   btn_label: "Vorträge herunterladen"
   btn_class: btn--primary
-  excerpt: "Laden Sie sich hier Vorträge herunter."
+  excerpt: "Hier stehen für Sie verschiedene Vorträge zum Download zur Verfügung."
 
 artikel:
 - title: "Artikel"

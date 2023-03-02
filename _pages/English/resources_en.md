@@ -17,7 +17,7 @@ services:
   image_caption: "Image from [Unsplash](https://unsplash.com)"
   btn_label: "Investigation into the 'State of the Nation'"
   btn_class: btn--primary
-  url: "downloads/services/state-of-the-nation.pdf"
+  url: "downloads/services/State-of-the-nation.pdf"
 
 vorträge:
 - title: "Lectures"

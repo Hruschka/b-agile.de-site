@@ -19,4 +19,6 @@ main_en:
     url: /en/news
   - title: "Books"
     url: "https://systemsguild.eu/guild-books"
+  - title: "Resources"
+    url: /en/resources
 

@@ -10,6 +10,15 @@ header:
 
 excerpt: "Laden Sie sich hier Vorträge, Artikel und Bücher herunter"
 
+services:
+- title: "Services"
+  excerpt: "Hier können Sie PDF-Dateien meiner Dienstleistungen herunterladen."
+  image_path: "/images/resources/services.jpg"
+  image_caption: "Image from [Unsplash](https://unsplash.com)"
+  btn_label: "Untersuchung zur 'Lage der Nation'"
+  btn_class: btn--primary
+  url: "downloads/services/Lage-der-nation.pdf"
+
 vorträge:
 - title: "Vorträge"
   image_path: "/images/resources/lectures.jpg"
@@ -37,6 +46,7 @@ bücher:
   excerpt: "Das Buch „Agile Softwareentwicklung für Embedded Real-Time Systems mit der UML“ ist leider nicht mehr im Handel erhältlich. Deshalb hier als Gratis-Download"
 ---
 
+{% include feature_row id="services" type="right"%}
 {% include feature_row id="vorträge" type="left"%}
 {% include feature_row id="artikel" type="right"%}
 {% include feature_row id="bücher" type="left"%}

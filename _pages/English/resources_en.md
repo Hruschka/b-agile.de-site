@@ -1,14 +1,14 @@
 ---
-title: "Ressourcen"
+title: "Resources"
 layout: splash
-permalink: /resources
+permalink: /en/resources
 header:
-    overlay_color: "#d7ecf8"
+overlay_color: "#d7ecf8"
     overlay_filter: rgba(15, 80, 180, 0.6)
     overlay_image: /images/splash/resources.jpg
     caption: "[**Unsplash**](https://unsplash.com/)"
 
-excerpt: "Laden Sie sich hier Services, Vorträge, Artikel und Bücher herunter"
+excerpt: "Download services, talks, articles and books here"
 
 services:
 - title: "Services"

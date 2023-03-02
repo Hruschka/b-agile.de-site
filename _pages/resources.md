@@ -22,6 +22,7 @@ services:
 vorträge:
 - title: "Vorträge"
   image_path: "/images/resources/lectures.jpg"
+  image_caption: "Image from [Unsplash](https://unsplash.com)"
   url: "/resources/lectures"
   btn_label: "Zu den Vorträgen"
   btn_class: btn--primary

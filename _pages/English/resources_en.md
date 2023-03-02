@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-layout: splash
+layout: splash_en
 permalink: /en/resources
 header:
     overlay_color: "#d7ecf8"
@@ -12,38 +12,39 @@ excerpt: "Download services, talks, articles and books here"
 
 services:
 - title: "Services"
-  excerpt: "Hier können Sie PDF-Dateien meiner Dienstleistungen herunterladen."
+  excerpt: " Here you can download PDF-versions of my services."
   image_path: "/images/resources/services.jpg"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
-  btn_label: "Untersuchung zur 'Lage der Nation'"
+  btn_label: "Investigation into the 'State of the Nation'"
   btn_class: btn--primary
-  url: "downloads/services/Lage-der-nation.pdf"
+  url: "downloads/services/state-of-the-nation.pdf"
 
 vorträge:
-- title: "Vorträge"
+- title: "Lectures"
   image_path: "/images/resources/lectures.jpg"
   url: "/resources/lectures"
-  btn_label: "Zu den Vorträgen"
+  image_caption: "Image from [Unsplash](https://unsplash.com)"
+  btn_label: "To the lectures"
   btn_class: btn--primary
-  excerpt: "Hier stehen für Sie verschiedene Vorträge zum Download zur Verfügung."
+  excerpt: "Here you can download several lectures (partly german)."
 
 artikel:
-- title: "Artikel"
+- title: "Services"
   image_path: "/images/resources/articles.jpg"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
   url: "/resources/articles"
-  btn_label: "Zu den Artikeln"
+  btn_label: "To the articles"
   btn_class: btn--primary
-  excerpt: "Hier stehen für Sie verschiedene Artikel zum Download zur Verfügung."
+  excerpt: "Here you can download several articles (partly german)."
 
 bücher:
-- title: "Bücher"
+- title: "Books"
   image_path: "/images/resources/book.jpg"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
   url: "downloads/books/agile_softwareentwicklung_embedded_real_time_systems_uml.pdf"
-  btn_label: "Zum Download"
+  btn_label: "Download here"
   btn_class: btn--primary
-  excerpt: "Das Buch „Agile Softwareentwicklung für Embedded Real-Time Systems mit der UML“ ist leider nicht mehr im Handel erhältlich. Deshalb hier als Gratis-Download"
+  excerpt: 'The book "Agile Softwareentwicklung für Embedded Real-Time Systems mit der UML" is unfortunately no longer available in stores. Therefore here as a free download'
 ---
 
 {% include feature_row id="services" type="right"%}

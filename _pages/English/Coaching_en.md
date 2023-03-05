@@ -23,6 +23,9 @@ one:
 - title: '"State of the Nation" Assessment (2-3 days)'
   image_path: "/images/coaching/one.png"
   image_caption: "The Beginning..."
+  url: "downloads/services/State-of-the-nation.pdf"
+  btn_label: "More infos as download"
+  btn_class: "btn--primary"
   excerpt: "In a discussion with management, department heads, project managers and employees, the initial situation of your software and system development is examined. If desired, also in cooperation with partners of the Atlantic System Guild or other German partners.
   <br><br>
   Result: concrete action notes and setting of priorities."

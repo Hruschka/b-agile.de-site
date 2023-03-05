@@ -25,6 +25,9 @@ one:
 - title: 'Untersuchung der "Lage der Nation" (2-3 Tage)'
   image_path: "/images/coaching/one.png"
   image_caption: "Der Anfang..."
+  url: "downloads/services/Lage-der-nation.pdf"
+  btn_label: Mehr dazu als Download"
+  btn_class: "btn--primary"
   excerpt: "Im Gespräch mit Geschäftsführung, Abteilungsleitern, Projektleitern und Mitarbeitern wird die Ausgangssituation Ihrer Software- und Systementwicklung durchleuchtet. Auf Wunsch auch in Zusammenarbeit mit Partnern der Atlantic System Guild oder anderen deutschen Partnern.
   <br><br>
   Ergebnis: konkrete Aktionshinweise und Schwerpunktsetzung."

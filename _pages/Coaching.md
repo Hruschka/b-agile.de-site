@@ -3,7 +3,7 @@ title: "Software- und System Engineering:"
 layout: splash
 permalink: /coaching
 header:
-    overlay_image: /images/splash/learn-header-helloquence.jpg
+    overlay_image: /images/splash/learn-header-helloquence.webp
     overlay_color: "#d7ecf8"
     overlay_filter: rgba(15, 80, 180, 0.6)
     caption: "[**Unsplash**](https://unsplash.com/)"

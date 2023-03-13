@@ -5,7 +5,7 @@ permalink: /en/resources
 header:
     overlay_color: "#d7ecf8"
     overlay_filter: rgba(15, 80, 180, 0.6)
-    overlay_image: /images/splash/resources.jpg
+    overlay_image: /images/splash/resources.webp
     caption: "[**Unsplash**](https://unsplash.com/)"
 
 excerpt: "Download services, talks, articles and books here"
@@ -13,7 +13,7 @@ excerpt: "Download services, talks, articles and books here"
 services:
 - title: "Services"
   excerpt: " Here you can download PDF-versions of my services."
-  image_path: "/images/resources/services.jpg"
+  image_path: "/images/resources/services.webp"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
   btn_label: "Investigation into the 'State of the Nation'"
   btn_class: btn--primary
@@ -21,7 +21,7 @@ services:
 
 vorträge:
 - title: "Lectures"
-  image_path: "/images/resources/lectures.jpg"
+  image_path: "/images/resources/lectures.webp"
   url: "/resources/lectures"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
   btn_label: "To the lectures"
@@ -29,8 +29,8 @@ vorträge:
   excerpt: "Here you can download several lectures (partly german)."
 
 artikel:
-- title: "Services"
-  image_path: "/images/resources/articles.jpg"
+- title: "Articles"
+  image_path: "/images/resources/articles.webp"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
   url: "/resources/articles"
   btn_label: "To the articles"
@@ -39,7 +39,7 @@ artikel:
 
 bücher:
 - title: "Books"
-  image_path: "/images/resources/book.jpg"
+  image_path: "/images/resources/book.webp"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
   url: "downloads/books/agile_softwareentwicklung_embedded_real_time_systems_uml.pdf"
   btn_label: "Download here"

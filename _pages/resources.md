@@ -5,7 +5,7 @@ permalink: /resources
 header:
     overlay_color: "#d7ecf8"
     overlay_filter: rgba(15, 80, 180, 0.6)
-    overlay_image: /images/splash/resources.jpg
+    overlay_image: /images/splash/resources.webp
     caption: "[**Unsplash**](https://unsplash.com/)"
 
 excerpt: "Laden Sie sich hier Services, Vorträge, Artikel und Bücher herunter"
@@ -13,7 +13,7 @@ excerpt: "Laden Sie sich hier Services, Vorträge, Artikel und Bücher herunter"
 services:
 - title: "Services"
   excerpt: "Hier können Sie PDF-Dateien meiner Dienstleistungen herunterladen."
-  image_path: "/images/resources/services.jpg"
+  image_path: "/images/resources/services.webp"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
   btn_label: "Untersuchung zur 'Lage der Nation'"
   btn_class: btn--primary
@@ -21,7 +21,7 @@ services:
 
 vorträge:
 - title: "Vorträge"
-  image_path: "/images/resources/lectures.jpg"
+  image_path: "/images/resources/lectures.webp"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
   url: "/resources/lectures"
   btn_label: "Zu den Vorträgen"
@@ -30,7 +30,7 @@ vorträge:
 
 artikel:
 - title: "Artikel"
-  image_path: "/images/resources/articles.jpg"
+  image_path: "/images/resources/articles.webp"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
   url: "/resources/articles"
   btn_label: "Zu den Artikeln"
@@ -39,7 +39,7 @@ artikel:
 
 bücher:
 - title: "Bücher"
-  image_path: "/images/resources/book.jpg"
+  image_path: "/images/resources/book.webp"
   image_caption: "Image from [Unsplash](https://unsplash.com)"
   url: "downloads/books/agile_softwareentwicklung_embedded_real_time_systems_uml.pdf"
   btn_label: "Zum Download"

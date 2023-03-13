@@ -3,7 +3,7 @@ title: "Our seminars and workshops"
 layout: splash_en
 permalink: /en/seminars
 header:
-  overlay_image: /images/splash/consulting-unsplash.jpg
+  overlay_image: /images/splash/consulting-unsplash.webp
   overlay_color: "#d7ecf8"
   overlay_filter: rgba(15, 80, 180, 0.6)
   caption: "[**Unsplash**](https://unsplash.com/)"

@@ -6,7 +6,7 @@ permalink: /news
 header:
     overlay_color: "#d7ecf8"
     overlay_filter: rgba(15, 80, 180, 0.6)
-    overlay_image: /images/splash/news.jpeg
+    overlay_image: /images/splash/news.webp
     caption: "[**Unsplash**](https://unsplash.com/)"
 
 ---

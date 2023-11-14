@@ -6,7 +6,7 @@ main:
   - title: "News"
     url: /news
   - title: "Bücher"
-    url: "https://systemsguild.eu/guild-books"
+    url: /books
   - title: "Ressourcen"
     url: /resources
 
@@ -18,7 +18,7 @@ main_en:
   - title: "News"
     url: /en/news
   - title: "Books"
-    url: "https://systemsguild.eu/guild-books"
+    url: /en/books
   - title: "Resources"
     url: /en/resources
 

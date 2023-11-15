@@ -31,3 +31,17 @@ div.coachingsteps{
 hr.big-sep {
     border-top: 5px dashed grey
 }
+
+.book {
+    max-width: 150px;
+}
+
+.mobile {
+  display: block;
+}
+
+@media (max-width: 600px) {
+  .mobile {
+    display: none;
+  }
+}

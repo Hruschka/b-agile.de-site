@@ -64,4 +64,4 @@ Thanks to Mr. Thomas Schwenke, attorney at law:<br>
 This website is generated completely statically and does not contain any elements that collect or store user or usage tracking information.
 This has been audited by several independent organizations, the full audit reports are available as a pdf download for those interested.
 
-
+Created by [PSWD](https://perstarke-webdev.de/) under the umbrella of [Kröner & Starke Web Development](https://kroener-starke.ch/).

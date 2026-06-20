@@ -65,4 +65,4 @@ Danke an Hr Rechtsanwalt Thomas Schwenke:<br>
 Diese Website wird komplett statisch generiert und enthält keine Elemente, die User- oder Usage-Tracking Informationen erheben oder speichern.
 Das wurde durch mehrere unabhängige Organisationen geprüft, die vollständigen Prüfberichte gibts für Interessierte als pdf-Download.
 
-
+Created by [PSWD](https://perstarke-webdev.de/) under the umbrella of [Kröner & Starke Web Development](https://kroener-starke.ch/).
